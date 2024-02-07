@@ -2,7 +2,7 @@
 
 Asunto::Asunto()
 {
-    cout << "asunto luotu" << endl;
+    //cout << "asunto luotu" << endl;
 }
 
 void Asunto::maarita(int asukkaita, int nelioita)

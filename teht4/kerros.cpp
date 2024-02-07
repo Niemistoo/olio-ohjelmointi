@@ -2,7 +2,7 @@
 
 Kerros::Kerros()
 {
-    cout << "Kerros luotu" << endl;
+    //cout << "Kerros luotu" << endl;
 }
 
 void Kerros::maaritaAsunnot()

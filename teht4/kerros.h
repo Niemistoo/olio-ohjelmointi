@@ -10,6 +10,7 @@ public:
     virtual void maaritaAsunnot(void);
     double laskeKulutus(double);
 
+private:
     Asunto as1;
     Asunto as2;
     Asunto as3;
