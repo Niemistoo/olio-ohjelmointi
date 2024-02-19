@@ -9,5 +9,12 @@ teht4/build
 teht4/*.user
 teht5/build
 teht5/*.user
+teht6-1/build
+teht6-1/*.user
+teht6-2/build
+teht6-2/*user
 MyInheritanceHomework/build
 MyInheritanceHomework/*.user
+GUIExample/
+Konsolisovellus/
+widgetsovellus/
