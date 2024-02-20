@@ -13,8 +13,11 @@ teht6-1/build
 teht6-1/*.user
 teht6-2/build
 teht6-2/*user
+teht7/build
+teht7/*.user
 MyInheritanceHomework/build
 MyInheritanceHomework/*.user
 GUIExample/
+GUIData/
 Konsolisovellus/
 widgetsovellus/

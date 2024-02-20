@@ -9,3 +9,4 @@
 5. Kerrostalo, oliot pointereilla
 6.  1. QT-widget Laskuri
     2. QT-widget Laskin
+7. Shakkikello
